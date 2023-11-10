@@ -23,9 +23,12 @@ Sample results, demonstrating the model's ability to accurately predict gender, 
 
 [Include images or links to sample results here]
 
+## Deployment Link
+The gender recognition model is deployed and can be accessed [here](https://s.id/GenderRecog).
+
 ## Future Work
 The project is an ongoing effort, and future updates may include improvements to model performance, additional features, and support for a broader range of datasets.
 
 ## Contact
 For any inquiries, collaboration opportunities, or feedback, please feel free to reach out via email:
-satrna0@gmail.com
+[satrna0@gmail.com](mailto:satrna0@gmail.com)
